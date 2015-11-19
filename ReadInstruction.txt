@@ -1,0 +1,9 @@
+1. Create MVC Project(EntityFrameWorkDatabaseFirst)
+2. Create db and table with data in Mssql server Management  studio 2012
+3. add ADO.Net Entity Data Model from right click on main assembly(EntityFrameWorkDatabaseFirst).
+   a) generated from db.
+   b) new connection (Microsoft sql server) add server name and db with authentication,then test connection
+
+4. click radio button (yes include sensitive data) and ...Context name  ,click next
+5. Add table and modelname.
+6. build assembly and create controller...
